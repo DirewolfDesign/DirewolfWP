@@ -1,0 +1,14 @@
+{
+    "name" : "Direwolf",
+    "summary" : "Custom Plugin Framework by Direwolf Design",
+    "author" : "Nate Flynn",
+    "author_email" : "nate@direwolfdesign.co",
+    "version" : "1.0.0",
+    "last_updated_time" : 1533721106,
+    "last_updated_date" : "08/08/2018 9:38am (UTC)",
+    "repo" : {
+        "url" : "https://github.com/DirewolfDesign/DirewolfWP",
+        "master" : "https://github.com/DirewolfDesign/DirewolfWP/blob/master",
+        "config" : "https://github.com/DirewolfDesign/DirewolfWP/blob/master/config.json"
+    }
+}
